@@ -1,6 +1,10 @@
 # Strumpkrig-Help
 Help for the other Repositorys
 
+## Files
+There will be alot of good files in here that can be good to have.
+check the HelpFiles Folder for that.
+
 ## CODE
 ### Commit to branch main
 when you commit to branch main all that code will be uploaded to the subpages that are related to the project
