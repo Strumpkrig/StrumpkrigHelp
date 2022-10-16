@@ -1,4 +1,4 @@
-# Strumpkrig-Help
+# Help
 Help for the other Repositorys
 
 ## Files
