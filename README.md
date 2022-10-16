@@ -19,7 +19,8 @@ All AZDEV- variables are change to the real value before uploading to the webser
 ##### AZDEV-DB-PASSWORD
 
 ##### AZDEV-GOOGLE-DELTAGARE
-This
+This are a URL to the CSV
+
 ##### AZDEV-FTP-SERVER
 
 ##### AZDEV-FTP-USER
@@ -28,16 +29,21 @@ This
 
 ## Database (MYSQL)
 Database settings are added as variables in the code
+
 ### Access to database
 If you need access to the database let Simon Gunner (sigun004) know that.
 
 ## Participant list
-Participant list URL settings are added as variables in the code
+Participant list URL settings are added as variables in the code to a csv file
+The webpage uses the CSV but we can use the Google SpreadSheet and Google Forms to access it in the browser.
+
 ### Access to Participant list
 If you need access to the participant list let Simon Gunner (sigun004) know.
 
 ## FTP
 All files are updated thru FTP and AZURE DevOps Pipeline
-All accoutns to the FTP server are stored in the pipline or are stored here in the code as Variables
+
+All accounts to the FTP server are stored in the pipline or are stored here in the code as Variables
+
 ### Access to FTP
 If you need access to the FTP server let Simon Gunner (sigun004) know.
