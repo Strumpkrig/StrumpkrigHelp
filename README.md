@@ -3,14 +3,17 @@ Help for the other Repositorys
 
 ## Files
 There will be alot of good files in here that can be good to have.
-check the HelpFiles Folder for that.
+Check the HelpFiles Folder for that.
 
 ## CODE
+
 ### Commit to branch main
+
 when you commit to branch main all that code will be uploaded to the subpages that are related to the project
 So create your own branch and push that to main when you are done with all changes.
 
 ### AZDEV- Variables
+
 All AZDEV- variables are change to the real value before uploading to the webserver. to protect us from release that sensitive information.
 
 #### Variables in use
@@ -51,3 +54,78 @@ All accounts to the FTP server are stored in the pipline or are stored here in t
 
 ### Access to FTP
 If you need access to the FTP server let Simon Gunner (sigun004) know.
+
+
+# Equmenia Colors
+
+## PRIMÄRFÄRG
+
+### EQUMENIA-LILA
+CMYK 55 87 2 0
+
+RGB 140 60 141
+
+PMS 2593C
+
+HTML 8C3C8D
+
+## SEKUNDÄRFÄRG
+
+### TURKOS
+CMYK 60 0 30 0
+
+RGB 99 193 191
+
+PMS 570
+
+HTML 63C1BF
+
+### SCOUTSKJORTE-GRÖNBLÅ
+CMYK 86 37 48 29
+
+RGB 17 100 104
+
+PMS 5473
+
+HTML 116468
+
+## KOMPLEMENTFÄRGER - används sparsamt
+
+### ROSA MANDARIN
+CMYK 0 56 44 0
+
+RGB 247 150 131
+
+PMS 1625
+
+HTML F79683
+
+### MUSTIG GUL
+CMYK 0 32 100 0
+
+RGB 250 182 0
+
+PMS 7548
+
+HTML FAB600
+
+## BAKGRUNDSFÄRGER
+
+### IS-TURKOS
+CMYK 25 0 10 0
+
+RGB 193 229 228
+
+PMS 628
+
+HTML C1E5E4
+
+### BEIGE-ROSA
+CMYK 3 15 15 0
+
+RGB 247 224 214
+
+PMS 475
+
+HTML F7E0D6
+
